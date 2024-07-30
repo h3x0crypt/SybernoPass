@@ -20,7 +20,7 @@ SybernoPass is an open source password management application that allows users 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/SybernoPass.git
+    git clone https://github.com/h3x0crypt/SybernoPass.git
     cd SybernoPass
     ```
 
