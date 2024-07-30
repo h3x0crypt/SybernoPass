@@ -13,7 +13,6 @@ SybernoPass is an open source password management application that allows users 
 
 - **Python**: Main programming language.
 - **Cryptography**: For encryption and decryption (`cryptography` library).
-- **Pillow**: For image handling (`Pillow` library).
 - **Tkinter**: For the graphical user interface (GUI).
 
 ## Installation
