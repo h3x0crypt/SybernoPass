@@ -76,6 +76,5 @@ This project is licensed under the MIT License
 ## Acknowledgements
 
 - The `cryptography` library for providing robust encryption.
-- The `Pillow` library for handling image operations.
 - The `Tkinter` library for creating the GUI.
 
