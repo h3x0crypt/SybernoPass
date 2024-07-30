@@ -224,4 +224,3 @@ class UI:
         update_password_list()
 
         selected_password.trace_add("write", update_buttons)
-
